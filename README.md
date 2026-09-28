@@ -1,2 +1,25 @@
-# cafe-management-system
-Royal Cafe Management System is a simple Python-based console application that manages cafe information, menu items, customer orders, and bill generation. It demonstrates the use of lists, tuples, dictionaries, functions, loops, conditional statements, and exception handling in a practical real-world project.
+# ☕ Royal Cafe Management System
+
+A simple Python-based cafe management system for viewing cafe information, checking the menu, placing orders, and generating the final bill.
+
+## Features
+- View cafe information
+- Display food menu and prices
+- Place customer orders
+- Calculate total bill
+- Simple menu-driven interface
+
+## Python Concepts Used
+- Dictionary
+- List
+- Tuple
+- Functions
+- `for` and `while` loops
+- `if-elif-else`
+- Exception handling
+- User input
+
+## How to Run
+
+```bash
+py cafe.py
