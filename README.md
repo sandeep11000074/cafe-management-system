@@ -146,21 +146,6 @@ It can be useful for beginners who are learning:
 * Exception handling
 * Basic program structure
 
-##  Future Improvements
-
-The project can be extended by adding:
-
-* Customer name and contact details
-* GST/tax calculation
-* Discount system
-* Multiple customers
-* Order cancellation
-* Receipt generation
-* File/database storage
-* Graphical User Interface (GUI)
-* Login system
-* Online ordering functionality
-
 ##  Author
 
 **Sandeep Parashar**
